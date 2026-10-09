@@ -1,0 +1,39 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="SY9tHqT4_OFaC0kp6t7o">
+    <mxGraphModel dx="808" dy="444" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UAVrIX8lvGhtr5KGIA-5-4" edge="1" parent="1" source="UAVrIX8lvGhtr5KGIA-5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-UiQL0Mjh0ObQNixnGyk-16" edge="1" parent="1" source="UAVrIX8lvGhtr5KGIA-5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="UAVrIX8lvGhtr5KGIA-5-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UAVrIX8lvGhtr5KGIA-5-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="Inicio" vertex="1">
+          <mxGeometry height="50" width="120" x="354" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="-UiQL0Mjh0ObQNixnGyk-2" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="370" as="sourcePoint" />
+            <mxPoint x="413" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-UiQL0Mjh0ObQNixnGyk-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Definir A, B como Real" vertex="1">
+          <mxGeometry height="40" width="96" x="366" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="UAVrIX8lvGhtr5KGIA-5-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;fontSize=10;" value="Leer A&lt;br&gt;&lt;br&gt;Leer B" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="227" as="geometry" />
+        </mxCell>
+        <mxCell id="-UiQL0Mjh0ObQNixnGyk-17" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;span style=&quot;font-size: 7px;&quot;&gt;&amp;nbsp;Escribir &quot;Suma:&quot;, a+b&lt;/span&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;Escribir &quot;Resta:&quot;, a-b&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;Escribir &quot;Producto:&quot;, a*b&lt;/div&gt;&lt;div style=&quot;font-size: 7px;&quot;&gt;Escribir &quot;Division&quot;, a/b&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="-UiQL0Mjh0ObQNixnGyk-18" parent="1" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" value="Fin" vertex="1">
+          <mxGeometry height="40" width="86" x="371" y="400" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
